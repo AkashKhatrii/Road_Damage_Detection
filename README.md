@@ -23,3 +23,6 @@
 ### Predictions
 ![image](https://github.com/AkashKhatrii/react-chat/assets/65164913/3e6131c7-0989-4ee5-8f27-20fbecc14cb1)
 
+![image](https://github.com/AkashKhatrii/react-chat/assets/65164913/7c1ea843-428e-48f0-a7f5-3fb7334121a7)
+
+
